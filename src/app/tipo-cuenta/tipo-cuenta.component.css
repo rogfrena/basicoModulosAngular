@@ -1,0 +1,17 @@
+.bienvenida{
+    text-align: center;
+}
+
+.hecho{
+    text-align: center;
+    padding-top: 4px;
+    margin: 10px;
+}
+.jumbotron{
+padding: 50px;
+margin: 50px;
+}
+
+.navbar-brand{
+    vertical-align: inherit;
+}
