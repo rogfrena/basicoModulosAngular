@@ -9,9 +9,15 @@
 }
 .jumbotron{
 padding: 50px;
-margin: 50px;
+margin: 30px;
 }
 
 .navbar-brand{
     vertical-align: inherit;
 }
+.container{
+    padding: 5px;
+    margin: 50px;
+    margin-left: 250px;
+    
+ }
